@@ -1,6 +1,7 @@
 # MultiFingerGestureX (MFGX)
 
 A powerful Xposed/LSPosed module for Android 15+ that enables custom actions triggered by multi-finger touch gestures. Swipe or pinch with 3, 4, or 5 fingers anywhere on screen to perform system actions, launch apps, open custom panels, execute shell commands, and more.
+为 Android 15+ 添加三指以上手势支持的 LSPosed/Xposed 模块。
 
 ## Requirements
 
@@ -9,31 +10,23 @@ A powerful Xposed/LSPosed module for Android 15+ that enables custom actions tri
 - Root access
 - Scope: **System Framework** (`android`)
 
-## Features
+## What It Does
 
-### Gestures (3 / 4 / 5 fingers)
-- Swipe Up / Down / Left / Right
-- Pinch In / Pinch Out
-- Quick Swipe Up / Quick Swipe Down
+Put three or more fingers on the screen and swipe:
 
-### Actions
-- **System actions**: Back, Home, Recents, notifications, lock screen, screenshot, volume, brightness, and more
-- **App launch**: Open any installed app
-- **App shortcuts**: Trigger pinned shortcuts
-- **Pie menu**: Radial overlay with configurable items
-- **Custom panels**: Side and bottom panel overlays
-- **Multi-action workflows**: Chain multiple actions with conditional gating
-- **Shell commands**: Execute commands, optionally with root (`su`)
+| Gesture | Action |
+|---------|--------|
+| Swipe Down | Screenshot |
+| Swipe Up | Home (fast) / Recents (slow) |
+| Swipe Left / Right | Switch to previous / next app |
 
-### UI
-- Material 3 / Jetpack Compose settings interface
-- Configurable accent colors and dark mode
-- Per-gesture enable/disable and action binding
-- Adjustable gesture thresholds
+三指或更多手指在屏幕上滑动：
 
-## Credits
-
-MultiFingerGestureX is a redesign of [EdgeX](https://github.com/fcmfcm1999/EdgeX), rebuilt specifically for Android 15+ with a focus on multi-touch gesture recognition. Special thanks to the author of EdgeX — this project builds on their original work.
+| 手势 | 效果 |
+|------|------|
+| 下滑 | 截屏 |
+| 上滑 | 快速 → 回桌面 / 慢速 → 最近任务 |
+| 左滑 / 右滑 | 切换上一个 / 下一个应用 |
 
 ## License
 
