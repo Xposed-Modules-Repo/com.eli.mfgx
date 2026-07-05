@@ -1,7 +1,7 @@
 # MultiFingerGestureX (MFGX)
 
-A powerful Xposed/LSPosed module for Android 15+ that enables custom actions triggered by multi-finger touch gestures. Swipe or pinch with 3, 4, or 5 fingers anywhere on screen to perform system actions, launch apps, open custom panels, execute shell commands, and more.
-为 Android 15+ 添加三指以上手势支持的 LSPosed/Xposed 模块。
+Swipe or pinch with 3, 4, or 5 fingers anywhere on screen to perform system actions, launch apps, open custom panels, execute shell commands, and more.
+为 Android 15+ 添加三指以上手势支持。傻逼一加平板2pro连多指手势都没有。
 
 ## What It Does
 
