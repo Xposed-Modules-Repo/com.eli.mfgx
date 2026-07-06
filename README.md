@@ -5,6 +5,8 @@ Swipe or pinch with 3, 4, or 5 fingers anywhere on screen to perform system acti
 
 ## What It Does
 
+<img width="480" height="340" alt="1" src="https://github.com/user-attachments/assets/0d1ceff6-58a7-4221-ab37-bb4ea93b5bad" />
+
 Put three or more fingers on the screen and swipe:
 
 | Gesture | Action |
