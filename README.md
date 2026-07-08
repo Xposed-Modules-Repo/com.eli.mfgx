@@ -1,7 +1,7 @@
 # MultiFingerGestureX
 
 Swipe or pinch with 3, 4, or 5 fingers anywhere on screen to perform system actions, launch apps, open custom panels, execute shell commands, and more.
-为一加平板添加三指以上手势支持。傻逼OPPO连多指Home/Recents手势都没有。
+为一加平板添加三指以上手势支持。傻逼OPPO连多指Home/Recents手势都没有。傻逼OPPO傻逼OPPO傻逼OPPO傻逼OPPO傻逼OPPO傻逼OPPO
 
 ## What It Does
 
