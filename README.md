@@ -1,7 +1,7 @@
 # MultiFingerGestureX
 
 An LSPosed/Xposed module that adds 3+ finger gesture support to Android 15+.
-为一加平板添加三指以上手势支持。
+为一加平板添加三指以上手势支持。傻逼OPPO连多指Home/Recents手势都没有。傻逼OPPO傻逼OPPO傻逼OPPO傻逼OPPO傻逼OPPO傻逼OPPO
 
 ## What It Does
 
